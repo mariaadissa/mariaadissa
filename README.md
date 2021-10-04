@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariaadissa
 - 👀 I’m interested in everything related to data
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science projects
+- 💞️ I’m looking to collaborate on data oriented projects
 - 📫 How to reach me https://www.linkedin.com/in/maria-adissa-53a557205/
 
 <!---
